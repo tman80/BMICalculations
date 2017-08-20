@@ -6,7 +6,7 @@ public class BMICalculator {
 		Scanner keyboard = new Scanner(System.in);
 		
 		double kilograms_per_pound =  0.45359237;
-	    double metres_per_inch = 0.0254;
+	        double metres_per_inch = 0.0254;
 		
 		// prompt user to enter their weight in pounds
 		System.out.print( "Your weight in pounds: " ) ;
